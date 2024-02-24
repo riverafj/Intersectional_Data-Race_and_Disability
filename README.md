@@ -3,7 +3,7 @@
 https://public.tableau.com/views/IntersectionalData/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 # How I created this
-I did some research online and realized that what I was reading had a downloadble dataset. I downloaded the dataset and ofcourse
+I did some research online and realized what I was reading had a downloadble dataset. I downloaded the dataset and ofcourse
 it was not organized. So I used excel to orginize and clean the dataset. I had to rearrange some columns and deleted the null values
 which it didn't affect what I was trying to do. I then used a visualizing tool called Tableau. I like using tableau because it
 is easier to represent a more orginized and clear picture for the audience. After going back and forth with excel and tableau, I was
