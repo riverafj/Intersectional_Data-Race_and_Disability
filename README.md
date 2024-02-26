@@ -32,8 +32,15 @@ in numbers and by just looking at the bubble graph, there are more females with 
 females in the United States than males. I will also post images here but you are not able to see the exact numbers when 
 you hover the image.
 
+# Tableau
 ![image](https://github.com/riverafj/Intersectional_Data-Race_and_Disability/assets/145299673/dc2504ac-0bdc-4ff3-b1ee-aefb70657adf)
 
 ![image](https://github.com/riverafj/Intersectional_Data-Race_and_Disability/assets/145299673/7e4f0dfa-cf7c-450e-b05e-09532cd5a00b)
+
+# Python
+![image](https://github.com/riverafj/Intersectional_Data-Race_and_Disability/assets/145299673/307697bc-21ec-49f6-95b0-4082738b719b)
+![image](https://github.com/riverafj/Intersectional_Data-Race_and_Disability/assets/145299673/8bc3ac8a-2392-4e95-90ad-387cc360c358)
+![image](https://github.com/riverafj/Intersectional_Data-Race_and_Disability/assets/145299673/4d7d576a-10bc-440e-91a0-c6546ebffa1d)
+
 
 
